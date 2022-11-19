@@ -1,0 +1,8 @@
+Steps to set Next with Tailwind and TypeScript
+
+1 Navigate to Tailwind website and click get started
+2 Click Framework Guides
+3 Click Next.js
+4 Click Next.js + Tailwind ( This will take you to github where you can copy the npx command and paste it in your terminal)
+
+NOTE: NEXT_PUBLIC Allows the env variable to be exposed to the client side. Without this prefix it will only work on the server side.
