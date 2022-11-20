@@ -8,7 +8,7 @@ import { InformationCircleIcon } from '@heroicons/react/24/solid'
 interface Props {
   netflixOriginals: Movie[]
 }
-
+console.log('hello')
 const Banner = ({ netflixOriginals }: Props) => {
   const [movie, setMovie] = useState<Movie | null>(null)
 
